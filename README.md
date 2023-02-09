@@ -6,4 +6,4 @@ In this lab, you will be using the 4sq Places API to retrieve information.
 
 Make sure you limit your queries so you don't run queries on a loop. Always loop up limit methods.
 
-Here's some [docs](https://location.foursquare.com/developer/reference/places-api-overview)
+Here's some [docs](https://location.foursquare.com/developer/reference/places-api-get-started)
